@@ -1,0 +1,71 @@
+.bg-light1 {
+    background-color: #F1F5FF;
+}
+.bg-green1{
+    background-color: #EDF9F0;
+}
+.bg-secondary1 {
+    background-color: #E2EBFB;
+}
+
+/* text color */
+.text-primary1{
+    color: #03045E;
+}
+.text-secondary1 {
+    color: #96A4BC;
+}
+.text-green1{
+    color: #287D3C;
+}
+
+/* text decoration */
+.td-none {
+    text-decoration: none;
+}
+
+/* borders */
+.border-green1{
+    border: 1px solid #287D3C;
+}
+.border-secondary1 {
+    border: 1px solid #96A4BC;
+}
+
+/* font size */
+.fs-12{
+    font-size: 12px;
+}
+
+
+@font-face {
+    font-family: "Folio Std";
+    src: url("./assets/font/folio-std/Folio-Std-Medium.ttf");
+}
+
+.font-folio {
+    font-family: "Folio Std", sans-serif;
+}
+.font-DMSans {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.cursor_pointer {
+    cursor: pointer;
+}
+
+/* Border */
+.br-10{
+    border-radius: 10px;
+}
+.br-30{
+    border-radius: 30px;
+}
+.br-top-30{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.br-bottom-30{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
